@@ -11,8 +11,6 @@
 
 🗓️ **작업기간** : 2021.09 ~ 2021.12
 
-👨‍💻 **투입인원** : 2명
-
 📒 **주요업무** 
 
 - 텐서플로우 라이트 모델을 안드로이드에 적재하여 카메라 이미지를 실시간으로 추론하고 결과를 출력
@@ -37,16 +35,3 @@
 - MachineLearing Calculation: NNAPI
 - Real-time Image Processing: Camera2 API
 - Language: Java
-
-## 🙆🏻‍♀️벡엔드
-
-👨‍💻 **투입인원** : 1명
-
-👨‍💻 **제작환경:** Google Colab
-
-📒 **주요기술**
-
-- Framework: Keras, Tensorflow
-- Model: CNN
-- Dataset: Kaggle
-- Lauguage: Python
