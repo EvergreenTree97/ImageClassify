@@ -23,12 +23,6 @@
 
 `Android Studio` `Github` `SourceTree` `Google Colab`
 
-## 🙆🏻‍♂️프론트엔트
-
-👨‍💻 **투입인원** : 1명
-
-👨‍💻 **사용 OS** : Android
-
 📒 **주요기술**
 
 - Framework: Tesnorflow Lite
