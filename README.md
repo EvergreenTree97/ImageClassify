@@ -21,7 +21,7 @@
 
 🌱 **사용툴**
 
-`Android Studio` `Github` `SourceTree` `Google Colab`
+`Android Studio`
 
 📒 **주요기술**
 
